@@ -13,9 +13,15 @@
 </p>
 
 ## 📖 Contents
+- [Books](#books)
+- [Videos](#videos)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+## Books
+
+## Videos
 
 ##
 
