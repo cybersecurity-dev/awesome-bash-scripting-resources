@@ -1,5 +1,14 @@
-# **`Awesome`** Bash Scripting Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-bash-scripting-language">
+          <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Bash_logo.svg" />
+        </a>
+    </p>
 
+# **`Awesome`** Bash Scripting Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Bash_(Unix_shell)) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
