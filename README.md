@@ -29,6 +29,8 @@
 - [Contributors](#contributors)
 
 ## Books
+- [Effective Shell: A Practical User's Guide to Working Smarter on the Command Line](https://www.amazon.com/Effective-Shell-David-Kerr/dp/1718504144/)
+- [Black Hat Bash: Creative Scripting for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Bash-Scripting-Pentesters-ebook/dp/B0CZ94T2PY)
 
 ## Videos
 
@@ -42,5 +44,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-bash-scripting-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-bash-scripting-resources-)
